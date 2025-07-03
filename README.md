@@ -28,6 +28,10 @@ brew install raylib
 
 # Build and run
 make run
+
+# Or build and run manually
+make
+./character_game
 ```
 
 ### Linux
@@ -37,6 +41,10 @@ sudo apt install libraylib-dev
 
 # Build and run
 make run
+
+# Or build and run manually
+make
+./character_game
 ```
 
 ## Controls
