@@ -73,3 +73,12 @@ game-test/
 ├── Makefile           # Build configuration
 └── README.md          # This file
 ```
+
+## Known Issues
+
+- 문제에 대한 정답이 없는 상황 있음
+- 음수 정답에 대한 처리 불가
+
+## Price
+
+- sonnet api 기준으로 디버깅(삽질)까지 포함해서 약 8.5달러 사용하였습니다.
